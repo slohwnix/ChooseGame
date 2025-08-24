@@ -1,9 +1,9 @@
 const cacheName = "Slohwnix-ChooseGAME-1.0";
 const contentToCache = [
-    "Build/build.loader.js",
-    "Build/build.framework.js.br",
-    "Build/build.data.br",
-    "Build/build.wasm.br",
+    "Build/ChooseGame.loader.js",
+    "Build/ChooseGame.framework.js",
+    "Build/ChooseGame.data",
+    "Build/ChooseGame.wasm",
     "TemplateData/style.css"
 
 ];
